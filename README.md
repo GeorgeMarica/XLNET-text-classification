@@ -11,3 +11,5 @@ Download model from "https://s3.amazonaws.com/models.huggingface.co/bert/xlnet-b
 
 ATTENTION!, rename "xlnet-base-cased-pytorch_model.bin" into "pytorch_model.bin"
 rename "xlnet-base-cased-config.json" inot "config.json"
+
+Original book https://github.com/billpku/NLP_In_Action/blob/master/Textclassification_with_XLNET.ipynb
